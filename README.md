@@ -30,13 +30,8 @@ Library for the Texas Instruments TLC5615 Digital to Analog Converter (DAC)
               7    OUT       Output voltage
               8    VDD       5V          
   
-  Tested on:
-              MSP430FR6989 and Energia V16
-              MSP432P401R and Energia V16
-              MSP430F5529 and Energia V16
-              MSP430G2553 and Energia V16   
-
-              
+  Tested on:  MSP430FR6989, MSP432P401R, MSP430F5529, MSP430G2553 (Energia V16) 
+    
   Frank Milburn    November 2015
   Released into the public domain
 
