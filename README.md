@@ -4,10 +4,10 @@ Library for the Texas Instruments TLC5615 Digital to Analog Converter (DAC)
        
         TLC5615CP
           +----+  
-    DIN  1|o   |8  VDD
-   SCLK  2|    |7  OUT
-     CS  3|    |6  REFIN
-   DOUT  4|    |5  AGND
+          DIN  1|o   |8  VDD
+          SCLK  2|    |7  OUT
+            CS  3|    |6  REFIN
+          DOUT  4|    |5  AGND
           +----+     
    
    Notes:
