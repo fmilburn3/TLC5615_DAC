@@ -1,6 +1,6 @@
 # TLC5615_DAC
 
-Library for the Texas Instruments TLC5615 Digital to Analog Converter (DAC)
+Energia library for the Texas Instruments TLC5615 Digital to Analog Converter (DAC)
        
         TLC5615CP
                  +----+  
